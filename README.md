@@ -78,7 +78,7 @@ A 2D platform game developed during **Troia GameJam 2026** by a **4-person team*
 - Wall grabbing
 - One-button switching between two timelines
 
-> If you publish the project later, you can add the repository or itch.io link here.
+
 
 ---
 
